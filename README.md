@@ -3,6 +3,7 @@
 ## Installation & Setup
 
 [Install Python] https://www.python.org/downloads/ ( You can install depending on your OS)
+
 [Install pip] https://pip.pypa.io/en/stable/installation/
 
 If you have Python & pip installed then check their version in the terminal or command line tools
