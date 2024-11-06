@@ -1,4 +1,7 @@
-##### Chatbot using Google GeminiAPI #####
+<h1 align="center">Chatbot using Gemini API</h1>
+
+
+
 
 ## Installation & Setup
 
