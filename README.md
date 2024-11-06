@@ -1,7 +1,6 @@
 <h1 align="center">Chatbot using Gemini API</h1>
 
-
-
+![Demo App](/static/images/chatbot_screenshot.png)
 
 ## Installation & Setup
 
