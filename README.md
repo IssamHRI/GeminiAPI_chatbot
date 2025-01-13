@@ -39,17 +39,6 @@ python app.py
 
 
 
-## What you will create
-
-In this tutorial, I will guide you through the process of building a chatbot that can carry out conversations with users using natural language processing.
-
-We will be using the Gemini API, a powerful tool for generating human-like responses, to handle the natural language processing aspect of the chatbot. The chatbot will be integrated with a Flask backend, a lightweight Python web framework, to create a robust web application capable of interacting with users through a chat interface.
-
-For the frontend, we will design a clean and modern user interface using HTML, CSS, and JavaScript. The user interface will feature a responsive chat layout that enhances user interaction, and jQuery will be used to manage the HTTP requests between the frontend and backend, ensuring smooth communication.
-
-Throughout this guide, I will provide detailed instructions on setting up your development environment, installing necessary dependencies, and writing the code required to build the application. Additionally, I will explain how to effectively use the Gemini API to generate accurate and contextually relevant responses for the chatbot.
-
-By the end of this tutorial, you will have a fully functional chatbot capable of engaging users in conversations, and you will gain valuable experience in using the Gemini API, Flask, and essential web development technologies such as HTML, CSS, and JavaScript.
 
 
 
